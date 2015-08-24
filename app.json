@@ -1,0 +1,6 @@
+{
+  "name": "PASMO Apps",
+  "description": "Gateway to PASMO Apps",
+  "repository": "https://github.com/uris77/pasmo-apps",
+  "keywords": ["pasmo", "node"]
+}
